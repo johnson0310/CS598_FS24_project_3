@@ -1,2 +1,3 @@
-# CS598_FS24_project_3
-This repo includes some of the predefined artifacts.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c566a37894aefe8469f4f9f9fada04094bfc26482c87191e68681b76fa314ba
+size 76
